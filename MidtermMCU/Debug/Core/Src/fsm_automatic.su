@@ -1,0 +1,2 @@
+fsm_automatic.c:16:6:Mode0	8	static
+fsm_automatic.c:35:6:fsm_simple_buttons_run	8	static
